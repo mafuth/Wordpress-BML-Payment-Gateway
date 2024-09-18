@@ -1,0 +1,16 @@
+{
+    "name": "ashham/woocommerce-bml-mpos",
+    "description": "Woocommerce integration with Bank of Maldives payment gateway. Note: I am not in anyway related to Bank of Maldives.",
+    "type": "project",
+    "require": {
+        "bankofmaldives/bml-connect-php": "^2.0"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mohamed Mafaaz",
+            "email": "hello@mafuth.online"
+        }
+    ],
+    "minimum-stability": "dev"
+}
